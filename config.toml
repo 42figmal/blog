@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://42figmal.github.io/'
+baseURL = 'https://42figmal.github.io/blog/'
 title = '42figmal'
 theme = 'hugo-book'
 
