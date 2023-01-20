@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://42figmal.github.io/blog/'
-title = '42figmal'
+title = 'ARCHIVE'
 theme = 'hugo-book'
 
 # Book configuration
@@ -14,7 +14,7 @@ enableGitInfo = true
   unsafe = true
 
 [markup.tableOfContents]
-  startLevel = 1
+  startLevel = 1  
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -70,7 +70,7 @@ enableGitInfo = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  # BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information

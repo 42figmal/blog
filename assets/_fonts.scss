@@ -50,11 +50,20 @@ h4 {
   letter-spacing: -0.7px;
 }
 
-span {
+title {
   font-family: 'Pretendard2', sans-serif;
   letter-spacing: -0.7px;
 }
 
+li {
+  font-family: 'Pretendard2', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+a {
+  font-family: 'Pretendard1', sans-serif;
+  letter-spacing: -0.7px;
+}
 
 body {
   font-family: 'Pretendard1', sans-serif;
@@ -62,5 +71,5 @@ body {
 }
 
 code {
-  font-family: 'D2coding', monospace;
+  font-family: 'D2coding', sans-serif;
 }
