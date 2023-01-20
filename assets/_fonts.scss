@@ -1,0 +1,66 @@
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Pretendard1';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/Pretendard-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/Pretendard-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Pretendard2';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('fonts/Pretendard-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/Pretendard-Bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-mono-regular - latin */
+@font-face {
+  font-family: 'D2coding';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('D2Coding-Ver1.3.2-20180524.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('D2Coding-Ver1.3.2-20180524.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+h1 {
+  font-family: 'Pretendard2', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+h2 {
+  font-family: 'Pretendard2', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+h3 {
+  font-family: 'Pretendard2', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+h4 {
+  font-family: 'Pretendard2', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+span {
+  font-family: 'Pretendard2', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+
+body {
+  font-family: 'Pretendard1', sans-serif;
+  letter-spacing: -0.7px;
+}
+
+code {
+  font-family: 'D2coding', monospace;
+}
