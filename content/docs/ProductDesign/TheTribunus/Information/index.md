@@ -1,5 +1,5 @@
 ---
-title: "Page Two"
+title: "Information"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,4 +8,4 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-asd2
+asd

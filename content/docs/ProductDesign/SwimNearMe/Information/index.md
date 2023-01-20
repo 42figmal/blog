@@ -1,11 +1,14 @@
 ---
-title: "Page One"
-weight: 1
+title: "Information"
+# weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+description: " "
+date: "July 11, 2023"
+categories: ["ProductDesign", "SwimNearMe"]
 ---
 asd
