@@ -1,7 +1,6 @@
 +++
-title = "202 블루노트"
-description = "내 관심사를 흐르는대로 기록하는 노트"
-Date = "February 3, 2022" 
+title = "42Figmal"
+description = "공부노트"
 +++
 
 <!--more-->
@@ -11,5 +10,6 @@ Date = "February 3, 2022"
 - ㄴㅇㄹ
     - ㄴㅇㄹ
 ## Product-Design
+#### <span class="nowrap"><span class="emojify">[🌱]</span>[SessacX러닝스푼즈 IT 서비스 기획자](http://42figmal.github.io/blog/categories/SwimNearMe/)</span> 
 #### <span class="nowrap"><span class="emojify">[🌊]</span>[SwimNearMe: 내 주변 수영장의 모든 것](http://42figmal.github.io/blog/categories/SwimNearMe/)</span> 
-#### <span class="nowrap"><span class="emojify">[🙋]</span>[TheTribunus: 내가 뽑은 정치인](http://42figmal.github.io/blog/categories/TheTribunus)</span>
+#### <span class="nowrap"><span class="emojify">[🙋]</span>[TheTribunus:](http://42figmal.github.io/blog/categories/TheTribunus)</span>
