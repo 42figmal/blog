@@ -1,7 +1,15 @@
 ---
-weight: 2
-bookCollapseSection: true
-title: "SessacX러닝스푼즈 IT서비스 기획자"
+title: "[1주차] 서비스 기획자 커리어"
+# weight: 1
+# bookFlatSection: false
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+description: " "
+date: "July 11, 2023"
+categories: ["Sesac"]
 ---
 # [1주차] 서비스 기획자 커리어 마인드 셋
 

@@ -1,5 +1,5 @@
 ---
-title: "post-one"
+title: "PrefixSum_누적합"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,4 +8,4 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-postone
+asd
