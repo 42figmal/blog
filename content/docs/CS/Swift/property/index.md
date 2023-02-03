@@ -59,7 +59,7 @@ peter.addScore = 500
 peter.score //600
 
 ```
-#### get
+### get
 get은 값을 얻는 것.
 `peter.score` 실행 시 내부의 get으로 들어가 `score + 100` 값을 리턴한다.
 set과 함께 쓰이지 않을 경우 get 블록으로 감싸지 않아도 괜찮다!
@@ -73,7 +73,7 @@ class score {
 }
 ```
 
-#### set
+### set
 set은 값을 세팅하는 것.
 get이 정해진 과정을 수행한다면 set은 사용자가 외부에서 값을 세팅하는 과정을 수행하며
 `peter.addScore=500`의 의미는  `peter.score = score + 500` 을 의미한다.
